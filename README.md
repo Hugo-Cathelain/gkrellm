@@ -172,11 +172,6 @@ We welcome contributions to MyGKrellm! Please read our [Contributing Guidelines]
 - **Ossan Msoili** - System Modules Developer
 - **Nathan Fievet** - UI Developer
 
-## 📧 Contact
-
-For questions, suggestions, or support, please contact:
-**mscotton.pro@gmail.com**
-
 ---
 
 <div align="center">
